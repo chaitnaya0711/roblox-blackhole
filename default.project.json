@@ -1,0 +1,19 @@
+{
+  "name": "BlackHole",
+  "servePort": 34479,
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "BlackHole": {
+          "$path": "src/client/BlackHole"
+        }
+      }
+    },
+    "Workspace": {
+      "$className": "Workspace"
+    }
+  }
+}

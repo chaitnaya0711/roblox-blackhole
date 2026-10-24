@@ -1,0 +1,4 @@
+*.bak
+*.lock
+raw_backup/
+.vscode/
