@@ -1,6 +1,7 @@
 # roblox-blackhole
 
-Real-time black hole simulation in Roblox using `EditableMesh`.
+Creates a real-time Black Hole in Roblox using Editable Meshes. 
+
 ## Usage
 
 Sync into Roblox Studio using [Rojo](https://rojo.space/):
